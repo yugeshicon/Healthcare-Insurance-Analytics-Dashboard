@@ -1,3 +1,3 @@
 # Medical-Insurance-Analytics-Dashboard
 
-![Dashboard Screenshots](Screenshot/main.jpg)
+![Dashboard Screenshots](Dashboard Image/Healthcare Insurance Dashboard.jpg)
